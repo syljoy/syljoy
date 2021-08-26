@@ -1,4 +1,6 @@
+<!-- 
 ![syljoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=syljoy&show_icons=true&hide=contribs,prs&theme=tokyonight)
+-->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=syljoy&show_icons=true&hide=contribs,prs&theme=tokyonight" /> 
 
